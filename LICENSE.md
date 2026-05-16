@@ -1,4 +1,4 @@
-# 
+# advanced auto-leverage trading bot Strategy | slippage-control + price-monitoring is the best auto-leverage trading bot, featuring slippage-control and price-monitoring. Smart,
 
 
 
